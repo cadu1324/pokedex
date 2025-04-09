@@ -2,8 +2,7 @@
   "name": "aula3",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://guilhermesandrade.github.io/Pokedex/",
-
+  "homepage": "https://github.com/cadu1324/pokedex",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
